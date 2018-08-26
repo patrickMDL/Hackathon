@@ -1,0 +1,19 @@
+body{
+	background-color: white;
+}
+h2{
+	color: lightblue;
+	text-align: left;
+}
+
+p{
+	font-family: verdana;
+	font-size: 20px;
+}
+#panelpic1{
+            content: url(file:///D:/MOHIT/HTML/images.jpg);
+            float: left;
+            width: 250px;
+            height: 150px;
+            vertical-align: middle;               
+           }
